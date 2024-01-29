@@ -1,0 +1,1 @@
+Index.PACKAGES = {"vertezml" : [{"object" : "vertezml\/Mean$.html", "name" : "vertezml.Mean"}]};

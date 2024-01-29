@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mwriting Ivy file /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/resolution-cache/vertezml/vertezml_2.11/0.1/resolved.xml.xml[0m
+[0m[[0m[33mwarn[0m] [0m[0mversionScheme setting is empty; set `ThisBuild / versionScheme := Some("early-semver")`, `Some("semver-spec")` or `Some("pvp")`[0m
+[0m[[0m[33mwarn[0m] [0m[0mso tooling can use it for eviction errors etc - https://www.scala-sbt.org/1.x/docs/Publishing.html[0m

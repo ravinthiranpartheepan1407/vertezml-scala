@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/vertezml_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	vertezml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/classes/vertezml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	vertezml/Mean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/classes/vertezml/Mean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	vertezml/Mean$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/classes/vertezml/Mean$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vboxuser/Documents/vertezml-scala/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
